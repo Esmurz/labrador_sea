@@ -34,15 +34,15 @@ section.dark, footer.dark, header.dark {
 	background-color: #232122;
 }
 .dark h1.light, .light h1, .dark .light h1, h1.light {
-	font-weight: 200;
 	font-family: 'Montserrat';
-	font-size: 72;
+	font-size: 100px;
+	font-weight: 200;
 	font-style: normal;
 	color: #222;
 }
 .light h1.dark, .dark h1, .light .dark h1, h1.dark {
-	font-size: 72;
 	font-family: 'Montserrat';
+	font-size: 72px;
 	font-weight: 200;
 	font-style: normal;
 	color: #fff;
@@ -359,24 +359,32 @@ section.dark, footer.dark, header.dark {
 	font-size: 70px;
 	}
 	.light h1.dark, .dark h1, .light .dark h1, h1.dark {
-	font-size: 10px;
+	font-size: 70px;
 	}
 	.dark h2.light, .light h2, .dark .light h2, h2.light {
+	font-size: 40px;
 	}
 	.light h2.dark, .dark h2, .light .dark h2, h2.dark {
+	font-size: 40px;
 	}
 }
 @media all and (max-width: 576px) {
 	.dark h1.light, .light h1, .dark .light h1, h1.light {
+	font-size: 40px;
 	}
 	.light h1.dark, .dark h1, .light .dark h1, h1.dark {
+	font-size: 40px;
 	}
 	.dark h2.light, .light h2, .dark .light h2, h2.light {
+	font-size: 30px;
 	}
 	.light h2.dark, .dark h2, .light .dark h2, h2.dark {
+	font-size: 30px;
 	}
 	.dark h3.light, .light h3, .dark .light h3, h3.light {
+	font-size: 25px;
 	}
 	.light h3.dark, .dark h3, .light .dark h3, h3.dark {
+	font-size: 25px;
 	}
 }

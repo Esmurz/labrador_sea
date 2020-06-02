@@ -18,7 +18,7 @@
 }
 
 #text-2col--0 .bg-wrap {
-	background: linear-gradient(135deg, #20b9dd, #4489e0);
+	background: #4da2d0;
 }
 
 #text-2col--1 .bg-wrap {
@@ -26,7 +26,7 @@
 }
 
 #text-2col--2 .bg-wrap {
-	background: linear-gradient(135deg, #4489e0, #20b9dd);
+	background: #4d97d0;
 }
 
 #text-2col--3 .bg-wrap {

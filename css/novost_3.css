@@ -6,13 +6,8 @@
     opacity:1;
 }
 #header-search-2 .bg {
-	background-position: right center;
 	background-repeat: No-repeat;
 	background-size: cover;
+	background-position: right center;
 	background-image: url('../images/more-labrodor.jpg');
-}#text-4col .bg {
-    background-image: url('../images/bg-sign.png');
-    background-repeat: no-repeat;
-    background-position: right bottom;
-    opacity: 0.1;
 }

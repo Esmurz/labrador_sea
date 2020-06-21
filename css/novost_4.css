@@ -1,0 +1,8 @@
+
+#header-search-2 .bg {
+	background-repeat: No-repeat;
+	background-size: cover;
+	background-position: right center;
+	background-image: url('../images/more-labrodor.jpg');
+}
+#header-search-2 .bg-wrap {}

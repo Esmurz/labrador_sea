@@ -5,3 +5,9 @@
     background-size: cover;
     opacity:0.25;
 }
+#header-search-2 .bg {
+	background-position: right center;
+	background-repeat: No-repeat;
+	background-size: cover;
+	background-image: url('../images/more-labrodor.jpg');
+}
